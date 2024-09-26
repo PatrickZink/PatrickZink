@@ -29,7 +29,7 @@ I bet I can find cost savings in any AWS account. Think yours is optimized? I'm 
 - [squid-proxy-filtering](https://github.com/PatrickZink/squid-proxy-filtering)
 - [sap-start-stop-via-mail](https://github.com/PatrickZink/sap-start-stop-via-mail)
 
-## <img src="https://github.com/user-attachments/assets/aa49a30d-3c70-494f-91d7-aaa14037f0d4" width="38" height="38"> [Follow me on LinkedIn](https://www.linkedin.com/in/patrick-zink/)
+## <img src="https://github.com/user-attachments/assets/aa49a30d-3c70-494f-91d7-aaa14037f0d4" width="35" height="35"> [Follow me on LinkedIn](https://www.linkedin.com/in/patrick-zink/)
 
 
 
