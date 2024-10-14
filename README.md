@@ -17,6 +17,7 @@ I bet I can find cost savings in any AWS account. Think yours is optimized? I'm 
 
 ## 📝 Blog Articles
 
+- [AWS Managed Grafana for one or multiple AWS Organizations](https://www.linkedin.com/pulse/aws-managed-grafana-one-multiple-organizations-patrick-zink-k8xwe)
 - [Avoiding Double Costs: EFS Automatic Backups and AWS Backup Plans](https://www.linkedin.com/pulse/avoiding-double-costs-efs-automatic-backups-aws-backup-patrick-zink-0ng6e)
 - [Reverse DNS at scale for the entire AWS organization](https://www.linkedin.com/pulse/reverse-dns-scale-entire-aws-organization-patrick-zink-nymae)
 - [VPC Endpoints: Explanation and Cost Comparison](https://pcg.io/insights/vpc-endpoints-explanation-and-cost-comparison/)
