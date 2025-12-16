@@ -17,6 +17,8 @@ I bet I can find cost savings in any AWS account. Think yours is optimized? I'm 
 
 ## 📝 Blog Articles
 
+- [AWS Account Names for Multi-Session Console Feature](https://www.linkedin.com/pulse/aws-account-names-multi-session-console-feature-patrick-zink-viv0e/)
+- [Understand EC2 and EBS Performance Specifications and Bottlenecks](https://www.linkedin.com/pulse/understand-ec2-ebs-performance-specifications-bottlenecks-zink-2ui3e)
 - [AWS Managed Grafana for one or multiple AWS Organizations](https://www.linkedin.com/pulse/aws-managed-grafana-one-multiple-organizations-patrick-zink-k8xwe)
 - [Avoiding Double Costs: EFS Automatic Backups and AWS Backup Plans](https://www.linkedin.com/pulse/avoiding-double-costs-efs-automatic-backups-aws-backup-patrick-zink-0ng6e)
 - [Reverse DNS at scale for the entire AWS organization](https://www.linkedin.com/pulse/reverse-dns-scale-entire-aws-organization-patrick-zink-nymae)
