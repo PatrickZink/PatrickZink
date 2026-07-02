@@ -17,6 +17,8 @@ I bet I can find cost savings in any AWS account. Think yours is optimized? I'm 
 
 ## 📝 Blog Articles
 
+- [Amazon Route 53 Profiles vs. Self-Automation: A Decision Based on Convenience, Performance and Cost](https://www.linkedin.com/pulse/amazon-route-53-profiles-vs-self-automation-decision-based-zink-499xe/)
+- [Amazon CloudWatch Dashboards with the Power of Custom Widgets](https://www.linkedin.com/pulse/amazon-cloudwatch-dashboards-power-custom-widgets-patrick-zink-p9oaf/)
 - [AWS Account Names for Multi-Session Console Feature](https://www.linkedin.com/pulse/aws-account-names-multi-session-console-feature-patrick-zink-viv0e/)
 - [Understand EC2 and EBS Performance Specifications and Bottlenecks](https://www.linkedin.com/pulse/understand-ec2-ebs-performance-specifications-bottlenecks-zink-2ui3e)
 - [AWS Managed Grafana for one or multiple AWS Organizations](https://www.linkedin.com/pulse/aws-managed-grafana-one-multiple-organizations-patrick-zink-k8xwe)
